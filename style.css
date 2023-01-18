@@ -1,5 +1,6 @@
 body {
-    background-color: tan;
+    background-color: darkgrey;
+    text-align: center;
 }
 
 h1 {
@@ -7,10 +8,12 @@ h1 {
 }
 
 p {
-    font-family: "Century Gothic";
+    font-family: "Century Schoolbook";
+    font-weight: bold;
 }
 
 img {
+    border: 8px solid black;
     width: 300px;
     height: 200px;
 }
