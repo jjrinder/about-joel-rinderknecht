@@ -1,19 +1,19 @@
 body {
-    background-color: darkgrey;
+    background-color: lightgray;
     text-align: center;
 }
 
 h1 {
-    font-family: "Century Gothic";
+    font-family: "Times New Roman";
 }
 
 p {
     font-family: "Century Schoolbook";
-    font-weight: bold;
+    font-weight: lighter;
 }
 
 img {
-    border: 8px solid black;
+    border: 8px solid gray;
     width: 300px;
     height: 200px;
 }
